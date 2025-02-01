@@ -3,6 +3,9 @@ public class Test1 {
         System.out.println("Hi All..how are you doing All!!");
         System.out.println("I am changing something for testing purpose!!");
         System.out.println("let do some text insertion");
+        User user=new User();
+        user.howDetails("Rajesh",12);
+         
     }
     
 }
